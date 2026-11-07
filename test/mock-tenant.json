@@ -1,0 +1,190 @@
+{
+  "asOf": "2026-09-17T15:06:00Z",
+  "organization": {
+    "displayName": "Contoso (demo tenant)",
+    "id": "00000000-demo-0000-0000-000000000000"
+  },
+  "reportsRetrievable": true,
+  "tenant": {
+    "licensedUsers": 100,
+    "pooledBaseGB": 1024,
+    "perUserGB": 10,
+    "addOnPurchasedGB": 1200
+  },
+  "sites": [
+    {
+      "url": "https://contoso.sharepoint.com/sites/marketing",
+      "title": "Marketing Assets",
+      "template": "GROUP#0",
+      "storageUsedGB": 380,
+      "storageQuotaGB": 500,
+      "lastActivityDate": "2026-06-20",
+      "ownerDeleted": false,
+      "versionHistoryGB": 120,
+      "recycleBinGB": 40
+    },
+    {
+      "url": "https://contoso.sharepoint.com/sites/sales-archive-2019",
+      "title": "Sales Archive 2019",
+      "template": "STS#3",
+      "storageUsedGB": 520,
+      "storageQuotaGB": 1024,
+      "lastActivityDate": "2021-03-11",
+      "ownerDeleted": false,
+      "versionHistoryGB": 60,
+      "recycleBinGB": 25
+    },
+    {
+      "url": "https://contoso.sharepoint.com/sites/finance",
+      "title": "Finance",
+      "template": "GROUP#0",
+      "storageUsedGB": 285,
+      "storageQuotaGB": 300,
+      "lastActivityDate": "2026-06-28",
+      "ownerDeleted": false,
+      "versionHistoryGB": 55,
+      "recycleBinGB": 20
+    },
+    {
+      "url": "https://contoso.sharepoint.com/sites/hr-documents",
+      "title": "HR Documents",
+      "template": "GROUP#0",
+      "storageUsedGB": 90,
+      "storageQuotaGB": 200,
+      "lastActivityDate": "2026-06-25",
+      "ownerDeleted": false,
+      "versionHistoryGB": 30,
+      "recycleBinGB": 15
+    },
+    {
+      "url": "https://contoso.sharepoint.com/sites/project-phoenix",
+      "title": "Project Phoenix (closed)",
+      "template": "GROUP#0",
+      "storageUsedGB": 480,
+      "storageQuotaGB": 400,
+      "lastActivityDate": "2022-01-09",
+      "ownerDeleted": false,
+      "versionHistoryGB": 70,
+      "recycleBinGB": 30
+    },
+    {
+      "url": "https://contoso.sharepoint.com/sites/it-ops",
+      "title": "IT Operations",
+      "template": "GROUP#0",
+      "storageUsedGB": 140,
+      "storageQuotaGB": 500,
+      "lastActivityDate": "2026-06-27",
+      "ownerDeleted": false,
+      "versionHistoryGB": 45,
+      "recycleBinGB": 20
+    },
+    {
+      "url": "https://contoso.sharepoint.com/sites/portal",
+      "title": "Company Portal",
+      "template": "SITEPAGEPUBLISHING#0",
+      "storageUsedGB": 470,
+      "storageQuotaGB": 500,
+      "lastActivityDate": "2026-06-29",
+      "ownerDeleted": false,
+      "versionHistoryGB": 60,
+      "recycleBinGB": 30
+    },
+    {
+      "url": "https://contoso.sharepoint.com/sites/legal-hold",
+      "title": "Legal Hold",
+      "template": "STS#3",
+      "storageUsedGB": 180,
+      "storageQuotaGB": 1024,
+      "lastActivityDate": "2026-05-30",
+      "ownerDeleted": false,
+      "versionHistoryGB": 30,
+      "recycleBinGB": 30
+    }
+  ],
+  "oneDrives": [
+    {
+      "ownerDisplayName": "Jane Miller",
+      "ownerUPN": "jane.miller@contoso.com",
+      "ownerStatus": "deleted",
+      "storageUsedGB": 95,
+      "lastActivityDate": "2025-02-14"
+    },
+    {
+      "ownerDisplayName": "Tom Fisher",
+      "ownerUPN": "tom.fisher@contoso.com",
+      "ownerStatus": "deleted",
+      "storageUsedGB": 78,
+      "lastActivityDate": "2025-05-02"
+    },
+    {
+      "ownerDisplayName": "Raj Patel",
+      "ownerUPN": "raj.patel@contoso.com",
+      "ownerStatus": "unlicensed",
+      "storageUsedGB": 64,
+      "lastActivityDate": "2025-11-20"
+    },
+    {
+      "ownerDisplayName": "Anna Kowalski",
+      "ownerUPN": "anna.kowalski@contoso.com",
+      "ownerStatus": "deleted",
+      "storageUsedGB": 88,
+      "lastActivityDate": "2024-12-01"
+    },
+    {
+      "ownerDisplayName": "Wei Chen",
+      "ownerUPN": "wei.chen@contoso.com",
+      "ownerStatus": "deleted",
+      "storageUsedGB": 52,
+      "lastActivityDate": "2025-06-18"
+    },
+    {
+      "ownerDisplayName": "Sam Okoro",
+      "ownerUPN": "sam.okoro@contoso.com",
+      "ownerStatus": "disabled",
+      "storageUsedGB": 41,
+      "lastActivityDate": "2025-09-09"
+    },
+    {
+      "ownerDisplayName": "Maria Silva",
+      "ownerUPN": "maria.silva@contoso.com",
+      "ownerStatus": "deleted",
+      "storageUsedGB": 63,
+      "lastActivityDate": "2025-04-27"
+    },
+    {
+      "ownerDisplayName": "Derek Hughes",
+      "ownerUPN": "derek.hughes@contoso.com",
+      "ownerStatus": "deleted",
+      "storageUsedGB": 39,
+      "lastActivityDate": "2025-07-30"
+    },
+    {
+      "ownerDisplayName": "Priya Sharma",
+      "ownerUPN": "priya.sharma@contoso.com",
+      "ownerStatus": "active",
+      "storageUsedGB": 180,
+      "lastActivityDate": "2026-06-28"
+    },
+    {
+      "ownerDisplayName": "John Davis",
+      "ownerUPN": "john.davis@contoso.com",
+      "ownerStatus": "active",
+      "storageUsedGB": 150,
+      "lastActivityDate": "2026-06-29"
+    },
+    {
+      "ownerDisplayName": "Lena Novak",
+      "ownerUPN": "lena.novak@contoso.com",
+      "ownerStatus": "active",
+      "storageUsedGB": 90,
+      "lastActivityDate": "2026-06-27"
+    },
+    {
+      "ownerDisplayName": "Carlos Ruiz",
+      "ownerUPN": "carlos.ruiz@contoso.com",
+      "ownerStatus": "active",
+      "storageUsedGB": 120,
+      "lastActivityDate": "2026-06-26"
+    }
+  ]
+}
